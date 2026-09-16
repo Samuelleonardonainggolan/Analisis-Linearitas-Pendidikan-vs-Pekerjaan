@@ -1,4 +1,4 @@
-streamlit
+streamlit==1.63.0
 matplotlib
 pandas
 numpy
@@ -6,3 +6,4 @@ seaborn
 scikit-learn
 plotly
 openpyxl
+joblib
